@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jawadahmed-dev.jawadahmed-dev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋;+I'm+Jawad;Full+Stack+Developer+%7C+Azure+Specialist;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋;+I'm+Jawad+%3A%29;Full+Stack+%7C+Azure+Developer;" />
 </h1>
 
 <h3 align="center">AZ-204 Certified | .NET & Angular Developer | Azure DevOps | CI/CD & IaC</h3>
