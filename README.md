@@ -24,7 +24,7 @@ I’m a Full-Stack Developer with **5+ years of experience**, primarily focused 
 - Real-time chat applications  
 - Background verification systems  
 - Multi-tenant HRMS solutions  
-- Digital agreements & invoicing systems  
+- Digital product agreements & invoicing systems  
 
 📈 Focused on building **scalable, maintainable, and production-ready systems**
 
