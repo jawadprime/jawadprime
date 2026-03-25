@@ -12,10 +12,11 @@
 
 I’m a Full-Stack Developer with **5+ years of experience**, primarily focused on **backend development** and building scalable cloud-based systems.
 
-- ☁️ Strong hands-on experience with **Azure services** (compute, storage, messaging, identity, monitoring)
 - 🧠 Experienced in **Clean Architecture, DDD, and Microservices**
-- ⚙️ Built **CI/CD pipelines and Infrastructure as Code (Bicep)** for multi-environment deployments
 - 🖥️ Developed complex frontends using **Angular and Blazor WebAssembly**
+- 🗄️ Strong experience with relational databases, including PostgreSQL and SQL Server
+- ⚙️ Built **CI/CD pipelines and Infrastructure as Code (Bicep)** for multi-environment deployments
+- ☁️ Strong hands-on experience with **Azure services** (compute, storage, messaging, identity, monitoring)
 
 ### 🧩 Systems I've Built
 
@@ -26,7 +27,9 @@ I’m a Full-Stack Developer with **5+ years of experience**, primarily focused 
 - Multi-tenant HRMS solutions  
 - Digital product agreements & invoicing systems  
 
-📈 Focused on building **scalable, maintainable, and production-ready systems**
+### 🎓 Certifications
+
+- Microsoft Certified: Azure Developer Associate (AZ-204)
 
 ---
 
